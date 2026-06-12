@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Placeholder fotografija salona">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7fa"/><stop offset="1" stop-color="#ffd3e2"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#bd4f7b" flood-opacity=".14"/></filter></defs>
+  <rect width="800" height="560" rx="42" fill="url(#g)"/>
+  <circle cx="675" cy="95" r="70" fill="#fff" opacity=".55"/>
+  <circle cx="120" cy="430" r="92" fill="#fff" opacity=".45"/>
+  <g filter="url(#s)" fill="#fff" stroke="#2d2630" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="158" y="152" width="484" height="292" rx="30"/>
+    <path d="M214 444V252c0-33 27-60 60-60h252c33 0 60 27 60 60v192"/>
+    <path d="M265 318h270M305 380h190"/>
+    <circle cx="310" cy="258" r="28" fill="#ffd0df"/>
+    <circle cx="490" cy="258" r="28" fill="#ffd0df"/>
+  </g>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" fill="#9d2c5c" font-size="26" font-weight="700">OVDJE DOLAZI FOTOGRAFIJA SALONA</text>
+</svg>
